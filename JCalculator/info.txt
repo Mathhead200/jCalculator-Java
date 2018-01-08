@@ -1,0 +1,4 @@
+
+JCalculator v0.0.7a - JBDComputers
+	Main Programmer: Christopher D'Angelo
+	Alpha Testers: Joseph D'Angelo
